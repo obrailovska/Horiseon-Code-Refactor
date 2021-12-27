@@ -16,4 +16,4 @@ Olha Brailovska
 
 ## Hosting
 
-[Project](https://choosealicense.com/licenses/mit/)
+[Project](https://obrailovska.github.io/Horiseon-Code-Refactor/)
